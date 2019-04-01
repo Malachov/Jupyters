@@ -1,2 +1,2 @@
 # Jupyters
-Jupyter notebooks
+Various jupyter notebooks. Mostly educational reasons. Topics like machine learning.
